@@ -1,0 +1,9 @@
+This program has a headerfile an implementation file and a main file.
+the code prints out 1 map at a time, and allows the user to beat the map
+aka finish the maze. Once the maze is finsished the program prints out the
+next map, and moves the player to the start of that map. once the player has
+hit the same array element where a "C" or "O" is located it either 
+increments the coin count by 1 or proceeds to the next level. C is for coin
+and P is for next level. Lastly Right after you enter your name, the timer starts
+and doesnt pause or finish untill u beat the last maze. We incorporated
+the "chrono" library to be able to run a clock for this.

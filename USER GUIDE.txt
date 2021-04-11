@@ -1,0 +1,9 @@
+This program is a mini game so to speak. Basically you enter your name, and the game begins.
+The game is 5 levels and to complete each level you have to reach the "O"
+character. The player is defined as the "@" character, and coins are defined
+as "C". Collect coins for a higher score.
+
+Some admin keys you can use:
+Press "O" to skip the current maze and proceed to the next one.
+Press "P" to end the program completely.
+
